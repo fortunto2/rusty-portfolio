@@ -453,12 +453,12 @@ export default function Home() {
                   ],
                 },
                 {
-                  period: "April 2021 - Present",
+                  period: "April 2021 - November 2025",
                   role: "CTO",
                   company: "Zenpulsar",
                   link: "https://zenpulsar.com",
                   description:
-                    "Designing AI financial agents and ETL architectures. Leading ML engineering, model serving, and backend development with focus on time-series analysis and vector databases.",
+                    "Designed AI financial agents and ETL architectures. Led ML engineering, model serving, and backend development with focus on time-series analysis and vector databases.",
                   highlights: [
                     "Implemented time-series forecasting models",
                     "Built ETL pipelines with Airflow/Prefect",
@@ -827,21 +827,9 @@ export default function Home() {
                   <div className="text-sm font-mono text-muted-foreground uppercase">Phone</div>
                   <div className="space-y-2">
                     <div className="flex items-center gap-2 text-muted-foreground text-sm">
-                      <span className="text-xs font-mono">TR</span>
-                      <a href="tel:+905073408692" className="hover:text-primary transition-colors">
-                        +90 507 340 8692
-                      </a>
-                    </div>
-                    <div className="flex items-center gap-2 text-muted-foreground text-sm">
                       <span className="text-xs font-mono">PT</span>
                       <a href="tel:+351910416103" className="hover:text-primary transition-colors">
                         +351 910 41 6103
-                      </a>
-                    </div>
-                    <div className="flex items-center gap-2 text-muted-foreground text-sm">
-                      <span className="text-xs font-mono">US</span>
-                      <a href="tel:+18186190966" className="hover:text-primary transition-colors">
-                        +1 818 619 0966
                       </a>
                     </div>
                   </div>
