@@ -827,9 +827,15 @@ export default function Home() {
                   <div className="text-sm font-mono text-muted-foreground uppercase">Phone</div>
                   <div className="space-y-2">
                     <div className="flex items-center gap-2 text-muted-foreground text-sm">
-                      <span className="text-xs font-mono">PT</span>
-                      <a href="tel:+351910416103" className="hover:text-primary transition-colors">
-                        +351 910 41 6103
+                      <span className="text-xs font-mono">TR</span>
+                      <a href="tel:+905073408692" className="hover:text-primary transition-colors">
+                        +90 507 340 8692
+                      </a>
+                    </div>
+                    <div className="flex items-center gap-2 text-muted-foreground text-sm">
+                      <span className="text-xs font-mono">US</span>
+                      <a href="tel:+18186190966" className="hover:text-primary transition-colors">
+                        +1 818 619 0966
                       </a>
                     </div>
                   </div>
